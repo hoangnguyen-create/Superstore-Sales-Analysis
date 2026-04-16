@@ -146,7 +146,7 @@ The following metrics were calculated:
 
 ## Business Recommendations
 
-The analysis suggests several opportunities to improve profitability and operational efficiency:
+Based on the analysis, the company should: 
 
 1. Optimize **discount policies** across underperforming sub-categories, particularly **Tables, Bookcases, and Supplies**, where high discount levels contribute to negative profit
 
