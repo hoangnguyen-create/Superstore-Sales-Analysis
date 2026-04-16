@@ -71,6 +71,8 @@ The dataset was processed and prepared before visualization:
 - Built correlation heatmap to understand relationships between Sales, Profit, Quantity, and Discount
 
 - Prepared feature variables for regression modeling
+ 
+The **complete** Exploratory Data Analysis (EDA) process is available in the **`Superstore_Analysis.ipynb`** notebook included in this repository.
 
 ## Dashboard Overview
 
