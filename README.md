@@ -136,7 +136,7 @@ The following metrics were calculated:
 
 - Root Mean Squared Error (RMSE)
 
-<img width="654" height="325" alt="image" src="https://github.com/user-attachments/assets/1606a460-58bf-42fc-8855-ac5af42c875c" />
+<img width="604" height="275" alt="image" src="https://github.com/user-attachments/assets/1606a460-58bf-42fc-8855-ac5af42c875c" />
 
 - The regression model produced a **MAE** of approximately **$64.11**, meaning that **predicted profit** values **differ** from actual outcomes by **around $64** per transaction on average.
 
